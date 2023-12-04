@@ -42,7 +42,9 @@ In the realm of medical diagnostics, we're pioneering a transformative approach 
 ## Dataset and Model
 - **Lung Disease Analysis:** [Chest X-ray Dataset](https://www.kaggle.com/datasets/alifrahman/chestxraydataset)
 - **Brain Tumor Analysis:** [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+- (sorry for the confusion, the size of the dataset is actually 5840 for chest and 7000 for brain tumor- please do consider this)
 - **Model Used:** CNN (Convolutional Neural Network)
+  
 
 ## Project Demo Video
 [Watch the Project Demo Video](https://drive.google.com/file/d/1_SCKK8LXoKFGaB7bsOHWhlvSjGAxJqfR/view?usp=sharing)
